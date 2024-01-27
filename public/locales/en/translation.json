@@ -1,0 +1,5 @@
+{
+    "welcome": "Welcome to React",
+    "Clear output and reset session. (`:reset`)": "Clear output and reset session. (`:reset`)",
+    "Fullscreen. (`:fullscreen [off?]`)": "Fullscreen. (`:fullscreen [off?]`)"
+}
